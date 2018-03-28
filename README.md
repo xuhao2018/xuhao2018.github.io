@@ -1,5 +1,5 @@
 
- ## [My repository](https://github.com/xuhao2018.github.io/)
+[My repository](https://github.com/xuhao2018/xuhao2018.github.io)
 
 ## Welcome to GitHub Pages
 
